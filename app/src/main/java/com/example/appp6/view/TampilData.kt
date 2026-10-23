@@ -15,3 +15,9 @@ import androidx.compose.ui.unit.sp
 import com.example.appp6.R
 
 @OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun TampilData(
+    onBackBtnClick: () -> Unit
+) {
+
+}
